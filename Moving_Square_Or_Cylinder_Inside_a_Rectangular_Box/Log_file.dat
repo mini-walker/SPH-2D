@@ -1,0 +1,38 @@
+ =====================================================================================
+ !                                                                                   !
+ !                               MSPH Program Version 1.1                            !
+ !                                Programer: Shanqin Jin                             !
+ !                           START TIME: 20190306  12:15:00.3                        !
+ !                                                                                   !
+ =====================================================================================
+ =====================================================================================
+ Running memory checking                         :
+ Recommand value of 'n_total_Factor' is          : 1.253
+ The allocated memory size in partcile number is :   96000
+ The current memory size in partcile number is   :   83840
+ The n_total_Factor( 1.20) larger than recommanded value ( 1.25)
+ The memory for the calculation is enough !
+ Recommand 'dt' for iteration  :  0.0000s
+ 
+ Simulation Reynolds Number    :    100.00
+ 
+ Reynolds-Cell Number          :     2.50
+ Reynolds-Smooth Length Number :     2.87
+ Recommandation: Both Reynolds-Cell and Reynolds-Smooth Length Number should be less than 10
+ 
+ Basic information of current SPH simulation : 
+ Kernel Function    : Improved Gauss Kernel Fcuntion
+ Particle resolution: 0.025000 Particle smooth length: 0.028750
+ Particle size      : 0.000625 Particle mass         : 0.625000
+ 
+ Initial particle number summarization:
+ Water particle number                :     78400
+ Fixed ghost particle number          :      5440
+ =====================================================================================
+ =====================================================================================
+ Program start time: 20190306  12:15:00.3
+ Program end time  : 20190307  04:26:18.2
+ The time of the program for Main Processor cost is:********s
+ The average time cosuming of one step cost is     :  0.7242s
+ The program run to the end, Please press "enter" to finish it!
+ =====================================================================================
