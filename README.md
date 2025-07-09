@@ -64,14 +64,14 @@ Hope it helps you in your SPH journey!
 
 ### 2.2 Flow past a cylinder
 
-<!-- <video width="640" height="360" controls>
-  <source src="Example_of_Results/Flow-past-a-cylinder.mp4" type="video/mp4">
+<video width="640" height="360" controls>
+  <source src="https://github.com/mini-walker/SPH-2D/issues/1#issue-3215628130" type="video/mp4">
   Your browser does not support the video tag.
-</video> -->
+</video>
 
 ### 2.3 Flow past a square
 
-https://github.com/mini-walker/SPH-2D/issues/1#issue-3215628130
+
 <!-- 
 <video width="640" height="360" controls>
   <source src="Example_of_Results/Flow-past-a-box.mp4" type="video/mp4">
