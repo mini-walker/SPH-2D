@@ -1,7 +1,7 @@
 # SPH (Smooth-particle Hydrodynamic)
 
 ## 1. 📘 About This Code
-These Fortran codes were developed during my master's study. The solver is based on the Smoothed Particle Hydrodynamics (SPH) method for solving the **weakly compressible Navier–Stokes equations**.
+The solver is based on the Smoothed Particle Hydrodynamics (SPH) method for solving the **weakly compressible Navier–Stokes equations**.
 
 ### 1.1 ✨ Features
 - Parallelization:
